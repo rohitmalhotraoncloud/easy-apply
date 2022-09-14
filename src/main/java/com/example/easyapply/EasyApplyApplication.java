@@ -10,6 +10,8 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 public class EasyApplyApplication {
 
     public static void main(String[] args) {
+        
+        
         SpringApplication.run(EasyApplyApplication.class, args);
     }
 
