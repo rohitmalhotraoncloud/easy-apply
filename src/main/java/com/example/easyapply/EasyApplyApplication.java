@@ -17,51 +17,6 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//Malhotra
-
-
-
-
-
-
-
-
-
-
-
-
 @SpringBootApplication
 @EnableFeignClients
 public class EasyApplyApplication {
