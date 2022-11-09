@@ -42,5 +42,7 @@ public class EasyApplyRequestDto {
         private String redirectApply;
 
     }
+
+    //Third Commit Develop
 }
 
