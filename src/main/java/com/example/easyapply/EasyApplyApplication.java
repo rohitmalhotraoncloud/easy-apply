@@ -24,6 +24,44 @@ import java.util.stream.Stream;
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @SpringBootApplication
 @EnableFeignClients
 public class EasyApplyApplication {
